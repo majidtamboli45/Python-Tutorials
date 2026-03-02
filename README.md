@@ -4,6 +4,8 @@ Welcome to the Python Tutorials Repository!
 This repository contains well-structured Python tutorials designed for beginners to advanced learners. Each topic includes explanations, examples, and practice exercises to strengthen understanding.
 
 📚 Topics Covered
+
+
 🔹 1. Python Basics
 
 Variables and Data Types
